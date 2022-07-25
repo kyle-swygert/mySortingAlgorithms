@@ -1,2 +1,2 @@
 # mySortingAlgorithms
-Sorting algorithms written in C for use in future projects. 
+Sorting algorithms rewritten for practice and learning
