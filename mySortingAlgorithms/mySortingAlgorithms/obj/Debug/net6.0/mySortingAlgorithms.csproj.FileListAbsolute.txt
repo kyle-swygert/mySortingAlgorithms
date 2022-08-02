@@ -1,0 +1,15 @@
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\bin\Debug\net6.0\mySortingAlgorithms.exe
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\bin\Debug\net6.0\mySortingAlgorithms.deps.json
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\bin\Debug\net6.0\mySortingAlgorithms.runtimeconfig.json
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\bin\Debug\net6.0\mySortingAlgorithms.dll
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\bin\Debug\net6.0\mySortingAlgorithms.pdb
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.AssemblyInfo.cs
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.dll
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\refint\mySortingAlgorithms.dll
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.pdb
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\mySortingAlgorithms.genruntimeconfig.cache
+C:\Users\Kyle\Desktop\personalProjects\mySortingAlgorithms\mySortingAlgorithms\mySortingAlgorithms\obj\Debug\net6.0\ref\mySortingAlgorithms.dll
